@@ -1,7 +1,7 @@
 # Copyright (C) 2023 DX_MODS
 #Licensed under the  AGPL-3.0 License;
 #you may not use this file except in compliance with the License.
-#Author ZIYAN
+#Author grixx
 #if you are not deploying through buttons you can paste variable here
 import re, os, time
 
