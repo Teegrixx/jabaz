@@ -14,7 +14,7 @@ class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
    
     # database config
-    DB_NAME = os.environ.get("DB_NAME","Dxbotz")     
+    DB_NAME = os.environ.get("DB_NAME","grixxbot")     
     DB_URL  = os.environ.get("DB_URL","")
  
     # other configs
