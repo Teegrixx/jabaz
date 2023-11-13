@@ -41,8 +41,8 @@ Tʜɪs Bᴏᴛ Wᴀs Cʀᴇᴀᴛᴇᴅ Bʏ : @teegrix 🥱</b>"""
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
-├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/teegrix>𝑻𝑬𝑬𝑮𝑹𝑰𝑿𝑿</a> 
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://github.com/teegrixx>𝑻𝑬𝑬𝑮𝑹𝑰𝑿𝑿</a>
+├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/teegrixx>𝑻𝑬𝑬𝑮𝑹𝑰𝑿𝑿</a> 
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/teegrixx>𝑻𝑬𝑬𝑮𝑹𝑰𝑿𝑿</a>
 ├📕 Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
@@ -64,13 +64,13 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 ⏰ Dᴜʀᴀᴛɪᴏɴ: {duration}
 ✏️ <b><u>Hᴏᴡ Tᴏ Rᴇɴᴀᴍᴇ A Fɪʟᴇ</u></b>
 <b>•></b> Sᴇɴᴅ Aɴy Fɪʟᴇ Aɴᴅ Tyᴩᴇ Nᴇᴡ Fɪʟᴇ Nɴᴀᴍᴇ \nAɴᴅ Aᴇʟᴇᴄᴛ Tʜᴇ Fᴏʀᴍᴀᴛ [ document, video, audio ].           
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/teegrix>𝑺𝑼𝑷𝑷𝑶𝑹𝑻</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/teegrixx>𝑺𝑼𝑷𝑷𝑶𝑹𝑻</a>
 """
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ 
     DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://t.me/teegrix>𝑻𝑬𝑬𝑮𝑹𝑰𝑿𝑿</a>
-» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://t.me/teegrix>𝑻𝑬𝑬𝑮𝑹𝑰𝑿𝑿</a>"""
+» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://t.me/teegrixx>𝑻𝑬𝑬𝑮𝑹𝑰𝑿𝑿</a>
+» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://t.me/teegrixx>𝑻𝑬𝑬𝑮𝑹𝑰𝑿𝑿</a>"""
 
 
     PROGRESS_BAR = """<b>\n
